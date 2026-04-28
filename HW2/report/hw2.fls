@@ -1,0 +1,87 @@
+PWD d:\Natthaphat\阪大\4年生\Lab\tutorial\HW2\report
+INPUT C:\Users\HP\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
+INPUT d:\Natthaphat\阪大\4年生\Lab\tutorial\HW2\report\hw2.tex
+OUTPUT hw2.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\xetex.def
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-xetex.def
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\cjk\CJKfntef.sty
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJKfntef.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xtemplate\xtemplate.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.cfg
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.cfg
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\placeins\placeins.sty
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\placeins\placeins.sty
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\HP\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT .\hw2.aux
+INPUT .\hw2.aux
+INPUT hw2.aux
+OUTPUT hw2.aux
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT ..\image\v.png
+INPUT ..\image\v.png
+OUTPUT hw2.xdv
+INPUT ..\image\dt.png
+INPUT ..\image\dt.png
+INPUT hw2.aux
