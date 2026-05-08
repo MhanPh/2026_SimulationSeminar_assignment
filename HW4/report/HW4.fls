@@ -80,8 +80,14 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 OUTPUT HW4.xdv
+INPUT ..\image\normal.png
+INPUT ..\image\normal.png
 INPUT ..\image\MSD.png
 INPUT ..\image\MSD.png
 INPUT ..\image\Correlation.png
 INPUT ..\image\Correlation.png
+INPUT ..\image\algo.jpg
+INPUT ..\image\algo.jpg
+INPUT ..\image\MSD_test.png
+INPUT ..\image\MSD_test.png
 INPUT HW4.aux

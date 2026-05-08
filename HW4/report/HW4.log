@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  7 MAY 2026 10:29
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.16)  8 MAY 2026 11:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,21 +321,49 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 ]
 
-LaTeX Font Warning: Font shape `TU/MSMincho(0)/b/n' undefined
-(Font)              using `TU/MSMincho(0)/m/n' instead on input line 99.
+[2]
 
+LaTeX Font Warning: Font shape `TU/MSMincho(0)/b/n' undefined
+(Font)              using `TU/MSMincho(0)/m/n' instead on input line 121.
+
+File: ../image/normal.png Graphic file (type bmp)
+<../image/normal.png>
+
+
+[3]
 File: ../image/MSD.png Graphic file (type bmp)
 <../image/MSD.png>
 
 
-[2]
+[4]
 File: ../image/Correlation.png Graphic file (type bmp)
 <../image/Correlation.png>
 
 
-[3]
+[5]
 
-[4] (HW4.aux)
+Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
+(xeCJK)                
+(xeCJK)                Try to use `\setCJKmonofont[<...>]{<...>}' to define
+(xeCJK)                it.
+
+File: ../image/algo.jpg Graphic file (type bmp)
+<../image/algo.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--162
+
+ []
+
+
+
+[6]
+File: ../image/MSD_test.png Graphic file (type bmp)
+<../image/MSD_test.png>
+
+
+[7]
+
+[8] (HW4.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -346,12 +374,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5687 strings out of 405075
- 158975 string characters out of 5504329
- 575398 words of memory out of 5000000
- 32261 multiletter control sequences out of 15000+600000
- 631399 words of font info for 75 fonts, out of 8000000 for 9000
+ 5723 strings out of 405075
+ 159258 string characters out of 5504329
+ 576496 words of memory out of 5000000
+ 32290 multiletter control sequences out of 15000+600000
+ 631415 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 74i,18n,92p,335b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,18n,92p,373b,240s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on HW4.xdv (4 pages, 30752 bytes).
+Output written on HW4.xdv (8 pages, 57512 bytes).
